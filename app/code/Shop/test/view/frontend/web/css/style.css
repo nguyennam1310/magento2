@@ -1,0 +1,27 @@
+.content {
+    padding-right: 15px;
+    position: relative;
+    width: 780px;
+  
+}
+.post {
+    border-top: 1px solid #E5E5E5;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.post-head {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.post-content img {
+    width: 500px;
+    margin-right: 10px;
+    float: left;
+}
+.post-content {
+    display: inline-block;
+}
