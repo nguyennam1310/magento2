@@ -11,3 +11,6 @@ php bin/magento indexer:reindex
 
 php bin/magento cache:flush
 
+//Trung Anh
+composer install 
+để tải các file tr
