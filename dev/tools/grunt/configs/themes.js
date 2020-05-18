@@ -41,6 +41,17 @@ module.exports = {
         ],
         dsl: 'less'
     },
+	Lucci: {
+		area: 'frontend',
+        name: 'Shop/Lucci',
+        locale: 'en_US',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
+	},
+
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
