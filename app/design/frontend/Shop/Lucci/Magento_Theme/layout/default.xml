@@ -21,11 +21,11 @@
         <referenceBlock name="catalog.compare.link" remove="true" />
         <referenceBlock name="minicart" remove="false" />
        
-
+<!-- 
        <referenceBlock name="catalog.topnav">
                   <block class="Magento\Framework\View\Element\Template" name="custom-link"   template="Magento_Theme::test.phtml" after="-" />
        </referenceBlock>
-
+ -->
         <referenceBlock name="top.links">
             <block class="Magento\Theme\Block\Html\Header" name="header.other" as="header.other" after="header">
                 <arguments>

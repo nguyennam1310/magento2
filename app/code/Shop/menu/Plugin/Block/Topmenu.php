@@ -1,6 +1,6 @@
 <?php
 
-namespace Shop\menu\Plugin\Block;
+namespace Shop\Menu\Plugin\Block;
 
 use Magento\Framework\Data\Tree\NodeFactory;
 

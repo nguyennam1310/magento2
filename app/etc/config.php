@@ -233,7 +233,6 @@ return [
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
-        'Blog_Example' => 1,
         'Boolfly_MomoWallet' => 1,
         'Demo_Test' => 1,
         'Dotdigitalgroup_Email' => 1,
@@ -245,17 +244,17 @@ return [
         'MSP_TwoFactorAuth' => 1,
         'Mageplaza_Core' => 1,
         'Mageplaza_BannerSlider' => 1,
-        'Mageplaza_GoogleMaps' => 1,
+        'Menu_Blog' => 1,
         'Menu_NavLinks' => 1,
-        'Rate_Example' => 1,
+        'Shop_Blog' => 1,
         'Shop_CustomerChatbox' => 1,
-        'Shop_Example' => 1,
+        'Shop_ExchangeRate' => 1,
+        'Shop_Weather' => 1,
         'Temando_Shipping' => 1,
         'VTCGateway_VTCPay' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
         'Vnpayment_VNPAY' => 1,
-        'Yotpo_Yotpo' => 1,
-        'hello_page' => 1
+        'Yotpo_Yotpo' => 1
     ]
 ];
